@@ -10,6 +10,8 @@ IT student with serious interest in **Frontend development**
 * Git/GitHub
 * Tailwind CSS
 * MUI
+* Node.js
+* Express.js
 
 # Contact ☎️
 miskojakub@gmail.com
