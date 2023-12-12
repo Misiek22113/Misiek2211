@@ -1,5 +1,5 @@
 # 👋Hi! I'm Jakub
-IT student with serious interest in **Frontend development**
+IT student with serious interest in **Web development**
 
 ✅ What I use in my projects:
 * React
