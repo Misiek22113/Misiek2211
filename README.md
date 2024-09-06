@@ -9,9 +9,12 @@ IT student with serious interest in **Web development**
 * SASS
 * Git/GitHub
 * Tailwind CSS
+* Styled-Components
 * MUI
 * Node.js
 * Express.js
+* Nest.js
+
 
 # Contact ☎️
 miskojakub@gmail.com
