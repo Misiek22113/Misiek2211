@@ -1,5 +1,5 @@
 # 👋Hi! I'm Jakub
-IT student with serious interest in **Web development**
+IT student and **Web Developer**
 
 ✅ What I use in my projects:
 * React
